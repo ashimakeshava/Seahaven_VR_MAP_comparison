@@ -1,0 +1,307 @@
+Subject,Task,Time,Accuracy,Group,measurement_1,measurement_2,Scale,Score
+1719,Absolute,3s,0.5,Map,4051,3005,Egocentric,2.5
+1719,Absolute,3s,0.5,Map,4051,3005,Allocentric,3.86
+1719,Absolute,3s,0.5,Map,4051,3005,Cardinal Direction,1.0
+1719,Absolute,Inf,0.6111111111111112,Map,4051,3005,Egocentric,2.5
+1719,Absolute,Inf,0.6111111111111112,Map,4051,3005,Allocentric,3.86
+1719,Absolute,Inf,0.6111111111111112,Map,4051,3005,Cardinal Direction,1.0
+1719,Relative,3s,0.5,Map,4051,3005,Egocentric,2.5
+1719,Relative,3s,0.5,Map,4051,3005,Allocentric,3.86
+1719,Relative,3s,0.5,Map,4051,3005,Cardinal Direction,1.0
+1719,Relative,Inf,0.3888888888888889,Map,4051,3005,Egocentric,2.5
+1719,Relative,Inf,0.3888888888888889,Map,4051,3005,Allocentric,3.86
+1719,Relative,Inf,0.3888888888888889,Map,4051,3005,Cardinal Direction,1.0
+1719,Pointing,3s,0.4444444444444444,Map,4051,3005,Egocentric,2.5
+1719,Pointing,3s,0.4444444444444444,Map,4051,3005,Allocentric,3.86
+1719,Pointing,3s,0.4444444444444444,Map,4051,3005,Cardinal Direction,1.0
+1719,Pointing,Inf,0.4444444444444444,Map,4051,3005,Egocentric,2.5
+1719,Pointing,Inf,0.4444444444444444,Map,4051,3005,Allocentric,3.86
+1719,Pointing,Inf,0.4444444444444444,Map,4051,3005,Cardinal Direction,1.0
+2096,Absolute,3s,0.5277777777777778,Map,5226,3608,Egocentric,3.5
+2096,Absolute,3s,0.5277777777777778,Map,5226,3608,Allocentric,3.57
+2096,Absolute,3s,0.5277777777777778,Map,5226,3608,Cardinal Direction,2.5
+2096,Absolute,Inf,0.6111111111111112,Map,5226,3608,Egocentric,3.5
+2096,Absolute,Inf,0.6111111111111112,Map,5226,3608,Allocentric,3.57
+2096,Absolute,Inf,0.6111111111111112,Map,5226,3608,Cardinal Direction,2.5
+2096,Relative,3s,0.5277777777777778,Map,5226,3608,Egocentric,3.5
+2096,Relative,3s,0.5277777777777778,Map,5226,3608,Allocentric,3.57
+2096,Relative,3s,0.5277777777777778,Map,5226,3608,Cardinal Direction,2.5
+2096,Relative,Inf,0.6111111111111112,Map,5226,3608,Egocentric,3.5
+2096,Relative,Inf,0.6111111111111112,Map,5226,3608,Allocentric,3.57
+2096,Relative,Inf,0.6111111111111112,Map,5226,3608,Cardinal Direction,2.5
+2096,Pointing,3s,0.3333333333333333,Map,5226,3608,Egocentric,3.5
+2096,Pointing,3s,0.3333333333333333,Map,5226,3608,Allocentric,3.57
+2096,Pointing,3s,0.3333333333333333,Map,5226,3608,Cardinal Direction,2.5
+2096,Pointing,Inf,0.6111111111111112,Map,5226,3608,Egocentric,3.5
+2096,Pointing,Inf,0.6111111111111112,Map,5226,3608,Allocentric,3.57
+2096,Pointing,Inf,0.6111111111111112,Map,5226,3608,Cardinal Direction,2.5
+2294,Absolute,3s,0.5555555555555556,Map,3599,4668,Egocentric,6.2
+2294,Absolute,3s,0.5555555555555556,Map,3599,4668,Allocentric,6.29
+2294,Absolute,3s,0.5555555555555556,Map,3599,4668,Cardinal Direction,3.5
+2294,Absolute,Inf,0.4722222222222222,Map,3599,4668,Egocentric,6.2
+2294,Absolute,Inf,0.4722222222222222,Map,3599,4668,Allocentric,6.29
+2294,Absolute,Inf,0.4722222222222222,Map,3599,4668,Cardinal Direction,3.5
+2294,Relative,3s,0.3333333333333333,Map,3599,4668,Egocentric,6.2
+2294,Relative,3s,0.3333333333333333,Map,3599,4668,Allocentric,6.29
+2294,Relative,3s,0.3333333333333333,Map,3599,4668,Cardinal Direction,3.5
+2294,Relative,Inf,0.5277777777777778,Map,3599,4668,Egocentric,6.2
+2294,Relative,Inf,0.5277777777777778,Map,3599,4668,Allocentric,6.29
+2294,Relative,Inf,0.5277777777777778,Map,3599,4668,Cardinal Direction,3.5
+2294,Pointing,3s,0.5277777777777778,Map,3599,4668,Egocentric,6.2
+2294,Pointing,3s,0.5277777777777778,Map,3599,4668,Allocentric,6.29
+2294,Pointing,3s,0.5277777777777778,Map,3599,4668,Cardinal Direction,3.5
+2294,Pointing,Inf,0.3611111111111111,Map,3599,4668,Egocentric,6.2
+2294,Pointing,Inf,0.3611111111111111,Map,3599,4668,Allocentric,6.29
+2294,Pointing,Inf,0.3611111111111111,Map,3599,4668,Cardinal Direction,3.5
+2299,Absolute,3s,0.4166666666666667,Map,2281,9997,Egocentric,3.6
+2299,Absolute,3s,0.4166666666666667,Map,2281,9997,Allocentric,4.71
+2299,Absolute,3s,0.4166666666666667,Map,2281,9997,Cardinal Direction,3.0
+2299,Absolute,Inf,0.6944444444444444,Map,2281,9997,Egocentric,3.6
+2299,Absolute,Inf,0.6944444444444444,Map,2281,9997,Allocentric,4.71
+2299,Absolute,Inf,0.6944444444444444,Map,2281,9997,Cardinal Direction,3.0
+2299,Relative,3s,0.7222222222222222,Map,2281,9997,Egocentric,3.6
+2299,Relative,3s,0.7222222222222222,Map,2281,9997,Allocentric,4.71
+2299,Relative,3s,0.7222222222222222,Map,2281,9997,Cardinal Direction,3.0
+2299,Relative,Inf,0.5833333333333334,Map,2281,9997,Egocentric,3.6
+2299,Relative,Inf,0.5833333333333334,Map,2281,9997,Allocentric,4.71
+2299,Relative,Inf,0.5833333333333334,Map,2281,9997,Cardinal Direction,3.0
+2299,Pointing,3s,0.4722222222222222,Map,2281,9997,Egocentric,3.6
+2299,Pointing,3s,0.4722222222222222,Map,2281,9997,Allocentric,4.71
+2299,Pointing,3s,0.4722222222222222,Map,2281,9997,Cardinal Direction,3.0
+2299,Pointing,Inf,0.5277777777777778,Map,2281,9997,Egocentric,3.6
+2299,Pointing,Inf,0.5277777777777778,Map,2281,9997,Allocentric,4.71
+2299,Pointing,Inf,0.5277777777777778,Map,2281,9997,Cardinal Direction,3.0
+2557,Absolute,3s,0.4722222222222222,Map,4684,9923,Egocentric,2.0
+2557,Absolute,3s,0.4722222222222222,Map,4684,9923,Allocentric,1.0
+2557,Absolute,3s,0.4722222222222222,Map,4684,9923,Cardinal Direction,1.0
+2557,Absolute,Inf,0.5833333333333334,Map,4684,9923,Egocentric,2.0
+2557,Absolute,Inf,0.5833333333333334,Map,4684,9923,Allocentric,1.0
+2557,Absolute,Inf,0.5833333333333334,Map,4684,9923,Cardinal Direction,1.0
+2557,Relative,3s,0.6944444444444444,Map,4684,9923,Egocentric,2.0
+2557,Relative,3s,0.6944444444444444,Map,4684,9923,Allocentric,1.0
+2557,Relative,3s,0.6944444444444444,Map,4684,9923,Cardinal Direction,1.0
+2557,Relative,Inf,0.5277777777777778,Map,4684,9923,Egocentric,2.0
+2557,Relative,Inf,0.5277777777777778,Map,4684,9923,Allocentric,1.0
+2557,Relative,Inf,0.5277777777777778,Map,4684,9923,Cardinal Direction,1.0
+2557,Pointing,3s,0.3333333333333333,Map,4684,9923,Egocentric,2.0
+2557,Pointing,3s,0.3333333333333333,Map,4684,9923,Allocentric,1.0
+2557,Pointing,3s,0.3333333333333333,Map,4684,9923,Cardinal Direction,1.0
+2557,Pointing,Inf,0.6111111111111112,Map,4684,9923,Egocentric,2.0
+2557,Pointing,Inf,0.6111111111111112,Map,4684,9923,Allocentric,1.0
+2557,Pointing,Inf,0.6111111111111112,Map,4684,9923,Cardinal Direction,1.0
+4199,Absolute,3s,0.6388888888888888,Map,4608,3422,Egocentric,5.5
+4199,Absolute,3s,0.6388888888888888,Map,4608,3422,Allocentric,4.57
+4199,Absolute,3s,0.6388888888888888,Map,4608,3422,Cardinal Direction,2.0
+4199,Absolute,Inf,0.75,Map,4608,3422,Egocentric,5.5
+4199,Absolute,Inf,0.75,Map,4608,3422,Allocentric,4.57
+4199,Absolute,Inf,0.75,Map,4608,3422,Cardinal Direction,2.0
+4199,Relative,3s,0.6111111111111112,Map,4608,3422,Egocentric,5.5
+4199,Relative,3s,0.6111111111111112,Map,4608,3422,Allocentric,4.57
+4199,Relative,3s,0.6111111111111112,Map,4608,3422,Cardinal Direction,2.0
+4199,Relative,Inf,0.7222222222222222,Map,4608,3422,Egocentric,5.5
+4199,Relative,Inf,0.7222222222222222,Map,4608,3422,Allocentric,4.57
+4199,Relative,Inf,0.7222222222222222,Map,4608,3422,Cardinal Direction,2.0
+4199,Pointing,3s,0.5277777777777778,Map,4608,3422,Egocentric,5.5
+4199,Pointing,3s,0.5277777777777778,Map,4608,3422,Allocentric,4.57
+4199,Pointing,3s,0.5277777777777778,Map,4608,3422,Cardinal Direction,2.0
+4199,Pointing,Inf,0.6944444444444444,Map,4608,3422,Egocentric,5.5
+4199,Pointing,Inf,0.6944444444444444,Map,4608,3422,Allocentric,4.57
+4199,Pointing,Inf,0.6944444444444444,Map,4608,3422,Cardinal Direction,2.0
+4749,Absolute,3s,0.5555555555555556,Map,4683,6744,Egocentric,4.0
+4749,Absolute,3s,0.5555555555555556,Map,4683,6744,Allocentric,3.14
+4749,Absolute,3s,0.5555555555555556,Map,4683,6744,Cardinal Direction,4.0
+4749,Absolute,Inf,0.75,Map,4683,6744,Egocentric,4.0
+4749,Absolute,Inf,0.75,Map,4683,6744,Allocentric,3.14
+4749,Absolute,Inf,0.75,Map,4683,6744,Cardinal Direction,4.0
+4749,Relative,3s,0.7777777777777778,Map,4683,6744,Egocentric,4.0
+4749,Relative,3s,0.7777777777777778,Map,4683,6744,Allocentric,3.14
+4749,Relative,3s,0.7777777777777778,Map,4683,6744,Cardinal Direction,4.0
+4749,Relative,Inf,0.75,Map,4683,6744,Egocentric,4.0
+4749,Relative,Inf,0.75,Map,4683,6744,Allocentric,3.14
+4749,Relative,Inf,0.75,Map,4683,6744,Cardinal Direction,4.0
+4749,Pointing,3s,0.5555555555555556,Map,4683,6744,Egocentric,4.0
+4749,Pointing,3s,0.5555555555555556,Map,4683,6744,Allocentric,3.14
+4749,Pointing,3s,0.5555555555555556,Map,4683,6744,Cardinal Direction,4.0
+4749,Pointing,Inf,0.5277777777777778,Map,4683,6744,Egocentric,4.0
+4749,Pointing,Inf,0.5277777777777778,Map,4683,6744,Allocentric,3.14
+4749,Pointing,Inf,0.5277777777777778,Map,4683,6744,Cardinal Direction,4.0
+5048,Absolute,3s,0.5,Map,7552,6104,Egocentric,4.9
+5048,Absolute,3s,0.5,Map,7552,6104,Allocentric,3.57
+5048,Absolute,3s,0.5,Map,7552,6104,Cardinal Direction,2.5
+5048,Absolute,Inf,0.4722222222222222,Map,7552,6104,Egocentric,4.9
+5048,Absolute,Inf,0.4722222222222222,Map,7552,6104,Allocentric,3.57
+5048,Absolute,Inf,0.4722222222222222,Map,7552,6104,Cardinal Direction,2.5
+5048,Relative,3s,0.5833333333333334,Map,7552,6104,Egocentric,4.9
+5048,Relative,3s,0.5833333333333334,Map,7552,6104,Allocentric,3.57
+5048,Relative,3s,0.5833333333333334,Map,7552,6104,Cardinal Direction,2.5
+5048,Relative,Inf,0.5277777777777778,Map,7552,6104,Egocentric,4.9
+5048,Relative,Inf,0.5277777777777778,Map,7552,6104,Allocentric,3.57
+5048,Relative,Inf,0.5277777777777778,Map,7552,6104,Cardinal Direction,2.5
+5048,Pointing,3s,0.4722222222222222,Map,7552,6104,Egocentric,4.9
+5048,Pointing,3s,0.4722222222222222,Map,7552,6104,Allocentric,3.57
+5048,Pointing,3s,0.4722222222222222,Map,7552,6104,Cardinal Direction,2.5
+5048,Pointing,Inf,0.4166666666666667,Map,7552,6104,Egocentric,4.9
+5048,Pointing,Inf,0.4166666666666667,Map,7552,6104,Allocentric,3.57
+5048,Pointing,Inf,0.4166666666666667,Map,7552,6104,Cardinal Direction,2.5
+5904,Absolute,3s,0.4166666666666667,Map,7429,8717,Egocentric,5.3
+5904,Absolute,3s,0.4166666666666667,Map,7429,8717,Allocentric,3.57
+5904,Absolute,3s,0.4166666666666667,Map,7429,8717,Cardinal Direction,1.0
+5904,Absolute,Inf,0.3055555555555556,Map,7429,8717,Egocentric,5.3
+5904,Absolute,Inf,0.3055555555555556,Map,7429,8717,Allocentric,3.57
+5904,Absolute,Inf,0.3055555555555556,Map,7429,8717,Cardinal Direction,1.0
+5904,Relative,3s,0.5833333333333334,Map,7429,8717,Egocentric,5.3
+5904,Relative,3s,0.5833333333333334,Map,7429,8717,Allocentric,3.57
+5904,Relative,3s,0.5833333333333334,Map,7429,8717,Cardinal Direction,1.0
+5904,Relative,Inf,0.5,Map,7429,8717,Egocentric,5.3
+5904,Relative,Inf,0.5,Map,7429,8717,Allocentric,3.57
+5904,Relative,Inf,0.5,Map,7429,8717,Cardinal Direction,1.0
+5904,Pointing,3s,0.5277777777777778,Map,7429,8717,Egocentric,5.3
+5904,Pointing,3s,0.5277777777777778,Map,7429,8717,Allocentric,3.57
+5904,Pointing,3s,0.5277777777777778,Map,7429,8717,Cardinal Direction,1.0
+5904,Pointing,Inf,0.5277777777777778,Map,7429,8717,Egocentric,5.3
+5904,Pointing,Inf,0.5277777777777778,Map,7429,8717,Allocentric,3.57
+5904,Pointing,Inf,0.5277777777777778,Map,7429,8717,Cardinal Direction,1.0
+6449,Absolute,3s,0.4722222222222222,Map,2325,2739,Egocentric,6.2
+6449,Absolute,3s,0.4722222222222222,Map,2325,2739,Allocentric,6.43
+6449,Absolute,3s,0.4722222222222222,Map,2325,2739,Cardinal Direction,4.0
+6449,Absolute,Inf,0.5277777777777778,Map,2325,2739,Egocentric,6.2
+6449,Absolute,Inf,0.5277777777777778,Map,2325,2739,Allocentric,6.43
+6449,Absolute,Inf,0.5277777777777778,Map,2325,2739,Cardinal Direction,4.0
+6449,Relative,3s,0.6666666666666666,Map,2325,2739,Egocentric,6.2
+6449,Relative,3s,0.6666666666666666,Map,2325,2739,Allocentric,6.43
+6449,Relative,3s,0.6666666666666666,Map,2325,2739,Cardinal Direction,4.0
+6449,Relative,Inf,0.5555555555555556,Map,2325,2739,Egocentric,6.2
+6449,Relative,Inf,0.5555555555555556,Map,2325,2739,Allocentric,6.43
+6449,Relative,Inf,0.5555555555555556,Map,2325,2739,Cardinal Direction,4.0
+6449,Pointing,3s,0.5555555555555556,Map,2325,2739,Egocentric,6.2
+6449,Pointing,3s,0.5555555555555556,Map,2325,2739,Allocentric,6.43
+6449,Pointing,3s,0.5555555555555556,Map,2325,2739,Cardinal Direction,4.0
+6449,Pointing,Inf,0.75,Map,2325,2739,Egocentric,6.2
+6449,Pointing,Inf,0.75,Map,2325,2739,Allocentric,6.43
+6449,Pointing,Inf,0.75,Map,2325,2739,Cardinal Direction,4.0
+7396,Absolute,3s,0.5277777777777778,Map,5046,5660,Egocentric,4.0
+7396,Absolute,3s,0.5277777777777778,Map,5046,5660,Allocentric,2.57
+7396,Absolute,3s,0.5277777777777778,Map,5046,5660,Cardinal Direction,1.0
+7396,Absolute,Inf,0.4166666666666667,Map,5046,5660,Egocentric,4.0
+7396,Absolute,Inf,0.4166666666666667,Map,5046,5660,Allocentric,2.57
+7396,Absolute,Inf,0.4166666666666667,Map,5046,5660,Cardinal Direction,1.0
+7396,Relative,3s,0.4166666666666667,Map,5046,5660,Egocentric,4.0
+7396,Relative,3s,0.4166666666666667,Map,5046,5660,Allocentric,2.57
+7396,Relative,3s,0.4166666666666667,Map,5046,5660,Cardinal Direction,1.0
+7396,Relative,Inf,0.6944444444444444,Map,5046,5660,Egocentric,4.0
+7396,Relative,Inf,0.6944444444444444,Map,5046,5660,Allocentric,2.57
+7396,Relative,Inf,0.6944444444444444,Map,5046,5660,Cardinal Direction,1.0
+7396,Pointing,3s,0.5277777777777778,Map,5046,5660,Egocentric,4.0
+7396,Pointing,3s,0.5277777777777778,Map,5046,5660,Allocentric,2.57
+7396,Pointing,3s,0.5277777777777778,Map,5046,5660,Cardinal Direction,1.0
+7396,Pointing,Inf,0.5555555555555556,Map,5046,5660,Egocentric,4.0
+7396,Pointing,Inf,0.5555555555555556,Map,5046,5660,Allocentric,2.57
+7396,Pointing,Inf,0.5555555555555556,Map,5046,5660,Cardinal Direction,1.0
+7844,Absolute,3s,0.5833333333333334,Map,4625,3269,Egocentric,4.1
+7844,Absolute,3s,0.5833333333333334,Map,4625,3269,Allocentric,3.0
+7844,Absolute,3s,0.5833333333333334,Map,4625,3269,Cardinal Direction,1.0
+7844,Absolute,Inf,0.6111111111111112,Map,4625,3269,Egocentric,4.1
+7844,Absolute,Inf,0.6111111111111112,Map,4625,3269,Allocentric,3.0
+7844,Absolute,Inf,0.6111111111111112,Map,4625,3269,Cardinal Direction,1.0
+7844,Relative,3s,0.5277777777777778,Map,4625,3269,Egocentric,4.1
+7844,Relative,3s,0.5277777777777778,Map,4625,3269,Allocentric,3.0
+7844,Relative,3s,0.5277777777777778,Map,4625,3269,Cardinal Direction,1.0
+7844,Relative,Inf,0.5833333333333334,Map,4625,3269,Egocentric,4.1
+7844,Relative,Inf,0.5833333333333334,Map,4625,3269,Allocentric,3.0
+7844,Relative,Inf,0.5833333333333334,Map,4625,3269,Cardinal Direction,1.0
+7844,Pointing,3s,0.5555555555555556,Map,4625,3269,Egocentric,4.1
+7844,Pointing,3s,0.5555555555555556,Map,4625,3269,Allocentric,3.0
+7844,Pointing,3s,0.5555555555555556,Map,4625,3269,Cardinal Direction,1.0
+7844,Pointing,Inf,0.5555555555555556,Map,4625,3269,Egocentric,4.1
+7844,Pointing,Inf,0.5555555555555556,Map,4625,3269,Allocentric,3.0
+7844,Pointing,Inf,0.5555555555555556,Map,4625,3269,Cardinal Direction,1.0
+8078,Absolute,3s,0.5,Map,4875,4477,Egocentric,6.0
+8078,Absolute,3s,0.5,Map,4875,4477,Allocentric,6.57
+8078,Absolute,3s,0.5,Map,4875,4477,Cardinal Direction,5.0
+8078,Absolute,Inf,0.7222222222222222,Map,4875,4477,Egocentric,6.0
+8078,Absolute,Inf,0.7222222222222222,Map,4875,4477,Allocentric,6.57
+8078,Absolute,Inf,0.7222222222222222,Map,4875,4477,Cardinal Direction,5.0
+8078,Relative,3s,0.6111111111111112,Map,4875,4477,Egocentric,6.0
+8078,Relative,3s,0.6111111111111112,Map,4875,4477,Allocentric,6.57
+8078,Relative,3s,0.6111111111111112,Map,4875,4477,Cardinal Direction,5.0
+8078,Relative,Inf,0.7777777777777778,Map,4875,4477,Egocentric,6.0
+8078,Relative,Inf,0.7777777777777778,Map,4875,4477,Allocentric,6.57
+8078,Relative,Inf,0.7777777777777778,Map,4875,4477,Cardinal Direction,5.0
+8078,Pointing,3s,0.5,Map,4875,4477,Egocentric,6.0
+8078,Pointing,3s,0.5,Map,4875,4477,Allocentric,6.57
+8078,Pointing,3s,0.5,Map,4875,4477,Cardinal Direction,5.0
+8078,Pointing,Inf,0.5833333333333334,Map,4875,4477,Egocentric,6.0
+8078,Pointing,Inf,0.5833333333333334,Map,4875,4477,Allocentric,6.57
+8078,Pointing,Inf,0.5833333333333334,Map,4875,4477,Cardinal Direction,5.0
+8124,Absolute,3s,0.7222222222222222,Map,1456,7849,Egocentric,4.8
+8124,Absolute,3s,0.7222222222222222,Map,1456,7849,Allocentric,4.28
+8124,Absolute,3s,0.7222222222222222,Map,1456,7849,Cardinal Direction,6.5
+8124,Absolute,Inf,0.8888888888888888,Map,1456,7849,Egocentric,4.8
+8124,Absolute,Inf,0.8888888888888888,Map,1456,7849,Allocentric,4.28
+8124,Absolute,Inf,0.8888888888888888,Map,1456,7849,Cardinal Direction,6.5
+8124,Relative,3s,0.8055555555555556,Map,1456,7849,Egocentric,4.8
+8124,Relative,3s,0.8055555555555556,Map,1456,7849,Allocentric,4.28
+8124,Relative,3s,0.8055555555555556,Map,1456,7849,Cardinal Direction,6.5
+8124,Relative,Inf,0.8333333333333334,Map,1456,7849,Egocentric,4.8
+8124,Relative,Inf,0.8333333333333334,Map,1456,7849,Allocentric,4.28
+8124,Relative,Inf,0.8333333333333334,Map,1456,7849,Cardinal Direction,6.5
+8124,Pointing,3s,0.5833333333333334,Map,1456,7849,Egocentric,4.8
+8124,Pointing,3s,0.5833333333333334,Map,1456,7849,Allocentric,4.28
+8124,Pointing,3s,0.5833333333333334,Map,1456,7849,Cardinal Direction,6.5
+8124,Pointing,Inf,0.8611111111111112,Map,1456,7849,Egocentric,4.8
+8124,Pointing,Inf,0.8611111111111112,Map,1456,7849,Allocentric,4.28
+8124,Pointing,Inf,0.8611111111111112,Map,1456,7849,Cardinal Direction,6.5
+8479,Absolute,3s,0.5555555555555556,Map,9749,7615,Egocentric,3.1
+8479,Absolute,3s,0.5555555555555556,Map,9749,7615,Allocentric,2.29
+8479,Absolute,3s,0.5555555555555556,Map,9749,7615,Cardinal Direction,1.0
+8479,Absolute,Inf,0.5555555555555556,Map,9749,7615,Egocentric,3.1
+8479,Absolute,Inf,0.5555555555555556,Map,9749,7615,Allocentric,2.29
+8479,Absolute,Inf,0.5555555555555556,Map,9749,7615,Cardinal Direction,1.0
+8479,Relative,3s,0.5833333333333334,Map,9749,7615,Egocentric,3.1
+8479,Relative,3s,0.5833333333333334,Map,9749,7615,Allocentric,2.29
+8479,Relative,3s,0.5833333333333334,Map,9749,7615,Cardinal Direction,1.0
+8479,Relative,Inf,0.5833333333333334,Map,9749,7615,Egocentric,3.1
+8479,Relative,Inf,0.5833333333333334,Map,9749,7615,Allocentric,2.29
+8479,Relative,Inf,0.5833333333333334,Map,9749,7615,Cardinal Direction,1.0
+8479,Pointing,3s,0.4444444444444444,Map,9749,7615,Egocentric,3.1
+8479,Pointing,3s,0.4444444444444444,Map,9749,7615,Allocentric,2.29
+8479,Pointing,3s,0.4444444444444444,Map,9749,7615,Cardinal Direction,1.0
+8479,Pointing,Inf,0.5555555555555556,Map,9749,7615,Egocentric,3.1
+8479,Pointing,Inf,0.5555555555555556,Map,9749,7615,Allocentric,2.29
+8479,Pointing,Inf,0.5555555555555556,Map,9749,7615,Cardinal Direction,1.0
+8802,Absolute,3s,0.3888888888888889,Map,2650,9400,Egocentric,4.0
+8802,Absolute,3s,0.3888888888888889,Map,2650,9400,Allocentric,3.14
+8802,Absolute,3s,0.3888888888888889,Map,2650,9400,Cardinal Direction,3.5
+8802,Absolute,Inf,0.6111111111111112,Map,2650,9400,Egocentric,4.0
+8802,Absolute,Inf,0.6111111111111112,Map,2650,9400,Allocentric,3.14
+8802,Absolute,Inf,0.6111111111111112,Map,2650,9400,Cardinal Direction,3.5
+8802,Relative,3s,0.4444444444444444,Map,2650,9400,Egocentric,4.0
+8802,Relative,3s,0.4444444444444444,Map,2650,9400,Allocentric,3.14
+8802,Relative,3s,0.4444444444444444,Map,2650,9400,Cardinal Direction,3.5
+8802,Relative,Inf,0.4444444444444444,Map,2650,9400,Egocentric,4.0
+8802,Relative,Inf,0.4444444444444444,Map,2650,9400,Allocentric,3.14
+8802,Relative,Inf,0.4444444444444444,Map,2650,9400,Cardinal Direction,3.5
+8802,Pointing,3s,0.4166666666666667,Map,2650,9400,Egocentric,4.0
+8802,Pointing,3s,0.4166666666666667,Map,2650,9400,Allocentric,3.14
+8802,Pointing,3s,0.4166666666666667,Map,2650,9400,Cardinal Direction,3.5
+8802,Pointing,Inf,0.6666666666666666,Map,2650,9400,Egocentric,4.0
+8802,Pointing,Inf,0.6666666666666666,Map,2650,9400,Allocentric,3.14
+8802,Pointing,Inf,0.6666666666666666,Map,2650,9400,Cardinal Direction,3.5
+9369,Absolute,3s,0.5833333333333334,Map,1379,2698,Egocentric,2.4
+9369,Absolute,3s,0.5833333333333334,Map,1379,2698,Allocentric,2.6
+9369,Absolute,3s,0.5833333333333334,Map,1379,2698,Cardinal Direction,3.5
+9369,Absolute,Inf,0.6944444444444444,Map,1379,2698,Egocentric,2.4
+9369,Absolute,Inf,0.6944444444444444,Map,1379,2698,Allocentric,2.6
+9369,Absolute,Inf,0.6944444444444444,Map,1379,2698,Cardinal Direction,3.5
+9369,Relative,3s,0.5,Map,1379,2698,Egocentric,2.4
+9369,Relative,3s,0.5,Map,1379,2698,Allocentric,2.6
+9369,Relative,3s,0.5,Map,1379,2698,Cardinal Direction,3.5
+9369,Relative,Inf,0.6111111111111112,Map,1379,2698,Egocentric,2.4
+9369,Relative,Inf,0.6111111111111112,Map,1379,2698,Allocentric,2.6
+9369,Relative,Inf,0.6111111111111112,Map,1379,2698,Cardinal Direction,3.5
+9369,Pointing,3s,0.3333333333333333,Map,1379,2698,Egocentric,2.4
+9369,Pointing,3s,0.3333333333333333,Map,1379,2698,Allocentric,2.6
+9369,Pointing,3s,0.3333333333333333,Map,1379,2698,Cardinal Direction,3.5
+9369,Pointing,Inf,0.5,Map,1379,2698,Egocentric,2.4
+9369,Pointing,Inf,0.5,Map,1379,2698,Allocentric,2.6
+9369,Pointing,Inf,0.5,Map,1379,2698,Cardinal Direction,3.5
